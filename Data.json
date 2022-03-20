@@ -1,10 +1,10 @@
 [
 	{
 		"Name": "102",
-		"Surface": 60,
-		"Price": 250,
+		"Surface": 400,
+		"Price": 3500,
 		"BedroomsCount": 3,
-		"BathroomsCount": 2,
+		"BathroomsCount": 3,
 		"Orientation":
 		{
 			"N": true,
@@ -16,10 +16,10 @@
 	},
 	{
 		"Name": "103",
-		"Surface": 50,
-		"Price": 125,
-		"BedroomsCount": 1,
-		"BathroomsCount": 1,
+		"Surface": 350,
+		"Price": 3000,
+		"BedroomsCount": 3,
+		"BathroomsCount": 2,
 		"Orientation":
 		{
 			"N": false,
