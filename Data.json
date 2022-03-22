@@ -1,8 +1,8 @@
 [
 	{
 		"Name": "102",
-		"Surface": 60,
-		"Price": 250,
+		"Surface": 350,
+		"Price": 35000000,
 		"BedroomsCount": 3,
 		"BathroomsCount": 2,
 		"Orientation":
