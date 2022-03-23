@@ -2,7 +2,7 @@
 	{
 		"Name": "102",
 		"Surface": 350,
-		"Price": 3500,
+		"Price": 3500000,
 		"BedroomsCount": 3,
 		"BathroomsCount": 3,
 		"Orientation":
@@ -17,7 +17,7 @@
 	{
 		"Name": "103",
 		"Surface": 300,
-		"Price": 3000,
+		"Price": 3000000,
 		"BedroomsCount": 3,
 		"BathroomsCount": 2,
 		"Orientation":
@@ -32,7 +32,7 @@
 	{
 		"Name": "104",
 		"Surface": 200,
-		"Price": 1500,
+		"Price": 1500000,
 		"BedroomsCount": 2,
 		"BathroomsCount": 2,
 		"Orientation":
@@ -47,7 +47,7 @@
 	{
 		"Name": "105",
 		"Surface": 200,
-		"Price": 1500,
+		"Price": 1500000,
 		"BedroomsCount": 2,
 		"BathroomsCount": 2,
 		"Orientation":
@@ -62,7 +62,7 @@
 	{
 		"Name": "106",
 		"Surface": 175,
-		"Price": 1500,
+		"Price": 1500000,
 		"BedroomsCount": 2,
 		"BathroomsCount": 2,
 		"Orientation":
@@ -76,10 +76,10 @@
 	},
 	{
 		"Name": "108",
-		"Surface": 50,
-		"Price": 250,
-		"BedroomsCount": 1,
-		"BathroomsCount": 1,
+		"Surface": 175,
+		"Price": 1500000,
+		"BedroomsCount": 2,
+		"BathroomsCount": 2,
 		"Orientation":
 		{
 			"N": false,
@@ -91,10 +91,10 @@
 	},
 	{
 		"Name": "110",
-		"Surface": 110,
-		"Price": 250,
+		"Surface": 170,
+		"Price": 1500000,
 		"BedroomsCount": 2,
-		"BathroomsCount": 1,
+		"BathroomsCount": 2,
 		"Orientation":
 		{
 			"N": false,
@@ -106,10 +106,10 @@
 	},
 	{
 		"Name": "112",
-		"Surface": 60,
-		"Price": 225,
-		"BedroomsCount": 1,
-		"BathroomsCount": 1,
+		"Surface": 175,
+		"Price": 1500000,
+		"BedroomsCount": 2,
+		"BathroomsCount": 2,
 		"Orientation":
 		{
 			"N": false,
