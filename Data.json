@@ -136,10 +136,10 @@
 	},
 	{
 		"Name": "114",
-		"Surface": 50,
-		"Price": 225,
-		"BedroomsCount": 1,
-		"BathroomsCount": 1,
+		"Surface": 350,
+		"Price": 3500000,
+		"BedroomsCount": 3,
+		"BathroomsCount": 3,
 		"Orientation":
 		{
 			"N": false,
